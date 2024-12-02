@@ -1,0 +1,51 @@
+2024-11-13 18:58:36,121 - INFO - ====== WebDriver manager ======
+2024-11-13 18:58:37,544 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 18:58:38,216 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2024-11-13 18:58:38,701 - INFO - Driver downloading response is 200
+2024-11-13 18:58:42,138 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 18:58:43,308 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 18:58:44,323 - INFO - Driver has been saved in cache [C:\Users\MAMQ\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2024-11-13 19:02:39,022 - INFO - ====== WebDriver manager ======
+2024-11-13 19:02:39,994 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:02:40,464 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2024-11-13 19:02:40,950 - INFO - Driver downloading response is 200
+2024-11-13 19:02:44,210 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:02:45,308 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:02:46,296 - INFO - Driver has been saved in cache [C:\Users\MAMQ\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2024-11-13 19:09:23,192 - INFO - ====== WebDriver manager ======
+2024-11-13 19:09:24,167 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:09:24,821 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2024-11-13 19:09:25,276 - INFO - Driver downloading response is 200
+2024-11-13 19:09:28,781 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:09:29,859 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:09:30,874 - INFO - Driver has been saved in cache [C:\Users\MAMQ\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2024-11-13 19:19:07,895 - INFO - ====== WebDriver manager ======
+2024-11-13 19:19:08,946 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:19:09,447 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2024-11-13 19:19:09,943 - INFO - Driver downloading response is 200
+2024-11-13 19:19:13,509 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:19:14,590 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:19:15,522 - INFO - Driver has been saved in cache [C:\Users\MAMQ\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2024-11-13 19:25:59,781 - INFO - ====== WebDriver manager ======
+2024-11-13 19:26:01,065 - INFO - Get LATEST chromedriver version for brave-browser
+2024-11-13 19:29:47,872 - INFO - ====== WebDriver manager ======
+2024-11-13 19:29:48,840 - INFO - Get LATEST chromedriver version for brave-browser
+2024-11-13 19:38:31,257 - INFO - ====== WebDriver manager ======
+2024-11-13 19:38:32,469 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:38:32,775 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:38:33,146 - INFO - There is no [win64] chromedriver "131.0.6778.69" for browser google-chrome "131.0.6778" in cache
+2024-11-13 19:38:33,146 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:38:33,982 - INFO - WebDriver version 131.0.6778.69 selected
+2024-11-13 19:38:33,982 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/win32/chromedriver-win32.zip
+2024-11-13 19:38:33,982 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.69/win32/chromedriver-win32.zip
+2024-11-13 19:38:34,432 - INFO - Driver downloading response is 200
+2024-11-13 19:38:38,130 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:38:38,958 - INFO - Driver has been saved in cache [C:\Users\MAMQ\.wdm\drivers\chromedriver\win64\131.0.6778.69]
+2024-11-13 19:47:19,272 - INFO - ====== WebDriver manager ======
+2024-11-13 19:47:20,271 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:47:20,631 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 19:47:20,990 - INFO - Driver [C:\Users\MAMQ\.wdm\drivers\chromedriver\win64\131.0.6778.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-13 20:03:57,835 - INFO - ====== WebDriver manager ======
+2024-11-13 20:03:58,847 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 20:03:59,205 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-13 20:03:59,537 - INFO - Driver [C:\Users\MAMQ\.wdm\drivers\chromedriver\win64\131.0.6778.69\chromedriver-win32/chromedriver.exe] found in cache
