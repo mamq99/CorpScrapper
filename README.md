@@ -32,7 +32,7 @@
    ```bash
    git clone https://github.com/yourusername/CorpScrapper.git
 
-git clone https://github.com/yourusername/CorpScrapper.git
+git clone https://github.com/mamq99/CorpScrapper.git
 
 2. Navigate to the project folder:
    ```bash
