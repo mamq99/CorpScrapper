@@ -11,6 +11,7 @@
 - **Data Extraction**:
   - Company address, zip code, president's name, mailing address, and more.
   - Missing data automatically marked as "N/A."
+- **Multi-Step Navigation**: Automatically follows redirects and navigates through multiple pages to locate and extract the required information.
 - **Prompted Workflow**: Guided prompts at every step, displaying extracted information in real-time.
 - **Progress Tracking**:
   - Success message with elapsed and estimated time for task completion.
