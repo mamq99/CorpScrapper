@@ -2,8 +2,6 @@
 
 **CorpScrapper** is a web scraping tool designed to extract detailed information about corporations/companies. Originally developed for a potential project, this tool takes company names from an Excel file, searches specified websites, and extracts data such as addresses, zip codes, presidents' names, and mailing addresses. It's a modular, user-friendly script that provides terminal prompts and progress updates for seamless navigation.
 
-![Sample Output in Terminal](path/to/terminal_screenshot.png)
-
 ---
 
 ## Features
@@ -20,7 +18,11 @@
 - **Output**:
   - Results saved in an organized format for easy analysis.
 
-![Example Output Directory](path/to/output_directory_screenshot.png)
+![Image-1](https://github.com/user-attachments/assets/083ddbe7-6464-4ac5-bf80-754ef9b1c47c)
+![Image-2](https://github.com/user-attachments/assets/adb3c7a7-69f3-4928-886b-fc4fbc2d2b4a)
+![Image-3](https://github.com/user-attachments/assets/cfc82f23-be87-49a9-90e8-cd591685d91a)
+![Image-4](https://github.com/user-attachments/assets/6851a83a-b203-4909-83d8-e6fbcdbac556)
+![Image-5](https://github.com/user-attachments/assets/7aa9d490-c6c5-419e-a1cf-9236e86c9145)
 
 ---
 
